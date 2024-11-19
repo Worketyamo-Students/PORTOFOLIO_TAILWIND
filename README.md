@@ -110,6 +110,7 @@ Les icônes sont chargées via CDN :
 ## 🖋️ Auteur
 
 - **KWINKWA KETCHASSO Rostand**
+- [ketchDev-stack](https://github.com/ketchDev-stark)
 - Retrouvez-moi sur :
   - [LinkedIn](#)
   - [Twitter](#)
